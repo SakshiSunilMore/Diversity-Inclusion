@@ -31,12 +31,14 @@ The ultimate aim is to take a practical approach to tackling gender balance chal
 • Data Modeling - Relationships established among tables to enable cross-filtering and aggregation.<br/>
 • File Format - -pbix for development and -png for dashboard previews<br/>
 
-💠Hiring & Promotions :-
-![Dashboard Preview](
-💠Turnover & Performance Rating :-
+💠Hiring & Promotions :-<br/>
+![Dashboard Preview](https://github.com/SakshiSunilMore/Diversity-Inclusion/blob/main/Hiring%20%26%20Promotions.png)<br/>
 
-💠Gender Balance & Age Group :-
+💠Turnover & Performance Rating :-<br/>
+![Dashboard Preview](https://github.com/SakshiSunilMore/Diversity-Inclusion/blob/main/Turnover%20Rate%20%26%20Performance%20Rating.png)<br/>
 
+💠Gender Balance & Age Group :-<br/>
+![Dashboard Preview](https://github.com/SakshiSunilMore/Diversity-Inclusion/blob/main/Gender%20Balance%20%26%20Age%20Group.png)<br/>
 
 
 ✨Feedback and suggestions are appreciated.
